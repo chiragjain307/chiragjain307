@@ -78,11 +78,8 @@
 ## Top Open Source -
 
 [![Portfolio-Website](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=Portfolio-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/Portfolio-Website)
-
 [![Chirag Jain Readme](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=chiragjain307&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/chiragjain307)
-
 [![Weather-WebApp](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=Weather-WebApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/Weather-WebApp)
-
 [![Todo-WebApp](https://github-readme-stats.vercel.app/api/pin/?username=chiragjain307&repo=Todo-WebApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chiragjain307/Todo-WebApp)
 
 <p align="left">
