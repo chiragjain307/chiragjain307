@@ -22,8 +22,8 @@
         <!-- <a href="https://dev.to/chiragjain307" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="chirag" />
  </a> -->
- <a href="https://twitter.com/mr_kasliwal" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+ <a href="https://x.com/mr_kasliwal" target="_blank">
+  <img src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
  </a>
  <a href="https://www.instagram.com/_mr_kasliwal_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
